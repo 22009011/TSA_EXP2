@@ -14,7 +14,7 @@ To Implement Linear and Polynomial Trend Estiamtion Using Python.
 5. End the program
 ### PROGRAM:
 #### A - LINEAR TREND ESTIMATION
-```
+```py
 Name :THAJIYAPPAN K
 Register No: 212222240108
 import pandas as pd
